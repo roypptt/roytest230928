@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\object-7-enhanced-syntax.js"
+            "program": "${workspaceFolder}\\object-8.js"
         }
     ]
 }
